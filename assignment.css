@@ -1,0 +1,96 @@
+img
+{
+    height: 120px;
+    width: 100px;
+}
+div{
+    display: flex;
+}
+.i
+{
+    width: 100px;
+    height: 100px;
+   
+}
+#h
+{
+    text-align: center;
+    font-size: 80px;
+    color: hotpink;
+    font-family:	Copperplate;
+}
+#u
+{
+    font-size: 50px;
+    color: orange;
+}
+body{
+    background-color:rgb(109, 227, 248);
+}
+ 
+  .nav2 {
+      min-height: 80px;
+      background: white;
+      padding-top: 30px;
+      /*position: -webkit-sticky;
+      position: sticky;*/
+      /*text-align: center;*/
+      overflow: hidden;
+    }
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+    border: lawngreen;
+      
+      padding: 20px 20px;
+    }
+  
+  
+  
+  .card {
+      background-color: rgb(255, 255, 255);
+      padding-bottom: 1px;
+      margin-bottom: 20px;
+     
+      padding-left: 100px;
+  }
+    
+  .text >.row2 > .button {
+      /* width: 54px; */
+      /* background-color: rgb(255, 255, 255); */
+      border-radius: 18px;
+    
+  }
+
+
+  span {
+  
+    font-size: 25px;
+ 
+}
+
+ #a{
+    border: 1px solid rgb(115, 12, 250);
+    background: rgb(3, 24, 24);
+    font-size: 25px;
+    border-radius: 8px;
+}
+  #p
+  {
+      font-size: 20px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      color: rgb(24, 16, 20);
+ 
+  }
+  p
+  {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: salmon;
+      font-size: 50px;
+  }
+
+
+.text{
+  margin-right: 5px;
+  background-color: white;
+}

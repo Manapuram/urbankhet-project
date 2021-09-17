@@ -1,22 +1,18 @@
-img
-{
+
+
+img {
     height: 120px;
-    width: 100px;
+    width: 120px;
 }
 div{
     display: flex;
 }
-.i
-{
-    width: 100px;
-    height: 100px;
-   
-}
+
 #h
 {
     text-align: center;
     font-size: 80px;
-    color: hotpink;
+    color: rgb(243, 19, 131);
     font-family:	Copperplate;
 }
 #u
@@ -25,55 +21,45 @@ div{
     color: orange;
 }
 body{
-    background-color:rgb(109, 227, 248);
+    background-color:rgb(20, 213, 247);
 }
  
-  .nav2 {
-      min-height: 80px;
-      background: white;
-      padding-top: 30px;
-      /*position: -webkit-sticky;
-      position: sticky;*/
-      /*text-align: center;*/
-      overflow: hidden;
-    }
-    .row {
-      display: flex;
-      flex-wrap: wrap;
-    border: lawngreen;
-      
-      padding: 20px 20px;
-    }
+ 
+
   
   
   
   .card {
-      background-color: rgb(255, 255, 255);
-      padding-bottom: 1px;
-      margin-bottom: 20px;
-     
-      padding-left: 100px;
+   
+      padding-top: 30px;
+      padding-bottom: 20px;
+      
+      margin-bottom: 50px;
+     padding-right: 100px;
+      padding-left: 140px;
   }
     
-  .text >.row2 > .button {
-      /* width: 54px; */
-      /* background-color: rgb(255, 255, 255); */
-      border-radius: 18px;
-    
-  }
 
 
   span {
-  
-    font-size: 25px;
+ 
+    font-size: 20px;
+   
  
 }
 
  #a{
-    border: 1px solid rgb(115, 12, 250);
-    background: rgb(3, 24, 24);
-    font-size: 25px;
-    border-radius: 8px;
+border: black solid;
+padding-left:60px;
+
+
+background-color: rgb(175, 104, 11);
+color: cornsilk;
+border-radius: 10px;
+
+   
+    
+   
 }
   #p
   {
@@ -89,8 +75,3 @@ body{
       font-size: 50px;
   }
 
-
-.text{
-  margin-right: 5px;
-  background-color: white;
-}
